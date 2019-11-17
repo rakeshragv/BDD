@@ -18,7 +18,7 @@ public class StepDefinitions {
 	
 	//@Then("^User enters \"(.*)\" and \"(.*)\" and \"(.*)\" and \"(.*)\"$")
 	//public void inputs1(String FirstName, String lastName, String Address, String Email ){
-		//driver.find
+		
 		
 	}
 	
